@@ -1,4 +1,4 @@
-package File1;
+package File1.sima_file;
 
 public class GitClass2 {
 
