@@ -6,5 +6,6 @@ public class GitClass2 {
 
         System.out.println("This is a class for practice");
         System.out.println("I worked very hard");
+        System.out.println("this is good");
     }
 }
